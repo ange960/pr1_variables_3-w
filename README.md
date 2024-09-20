@@ -2,7 +2,7 @@
 
 print(" ")
 
-print("martinez tagle luis angel , mi practica de suma de variables, estoy desplegando las variables que asigne")
+print("Martinez Tagle Luis Angel , mi practica de suma de variables, estoy desplegando las variables que asigne")
 
 print(" ")
 
@@ -20,4 +20,5 @@ print(" ")
 
 
 
-![image](https://github.com/user-attachments/assets/d337067f-3a39-48d3-a76c-5b1d9934400c)
+![image](https://github.com/user-attachments/assets/5026b11c-bc93-4765-a247-73f63d73b7da)
+
