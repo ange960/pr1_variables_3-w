@@ -16,10 +16,13 @@ print(y) # print imprimiendo el valor de y
 
 
 print(x+y) #print haciendo la suma de las variables
+
 print(" ")
 
 
+![image](https://github.com/user-attachments/assets/34db1917-6d20-41f1-9c8a-324d8a518314)
 
-![image](https://github.com/user-attachments/assets/da3357c1-4d23-48db-849f-cfab56a5fc37)
+
+
 
 
